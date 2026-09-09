@@ -1,16 +1,26 @@
-## Hi there 👋
+# Idham Khalid
 
-<!--
-**idkhalid/idkhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on backend, automation, infrastructure, and developer tools.
 
-Here are some ideas to get you started:
+Mostly working with Go, Python, PHP, TypeScript, Linux, Docker, Cloudflare, and Playwright.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+* **ProtocolLens** — HTTP protocol analysis and replay tooling.
+* **AIO Tools Converter** — modular file conversion platform.
+* **Game True ID API** — API service with relay and Cloudflare Workers architecture.
+* **Marketplace Automation** — multi-account automation using Python and Playwright.
+* **Telegram Services** — multiple Telethon services managed with systemd.
+* **Server Infrastructure** — Cloudflare origin lock, firewall rules, reverse proxy, and Linux deployment.
+
+### Stack
+
+`Go` `Python` `PHP` `TypeScript` `Laravel` `Next.js` `React`
+
+`Playwright` `Docker` `Linux` `Nginx` `Cloudflare` `systemd`
+
+---
+
+Currently building things that involve APIs, automation, infrastructure, and systems that need to survive outside localhost.
+
+**Idham Khalid — @idkhalid**
